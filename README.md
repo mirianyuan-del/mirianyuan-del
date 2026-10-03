@@ -1,7 +1,7 @@
 # Hi, I'm Mirian-Yuan
 
-International Economics & Trade | 1.5 years in export sales | SQL & Python for data analysis |
+International Economics & Trade graduate with 1.5 years of export sales experience.
 
-## Tech
-
-Python | MySQL | Power Bi
+- Interested in trade analytics and business analytics
+- Skills: SQL, Python, Excel, Power Bi
+- Currently building data analysis projects
